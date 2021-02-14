@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "web dev assignment",
+      "description": "build basic html page",
+      "datecreated": 1610589600,
+      "datedue": 826771555,
+      "timedue": 1200,
+      "location": "Stetson University",
+      "priority": "2"
+    },
+    {
+      "id": 2,
+      "title": "operating systems assignment",
+      "description": "build basic html page",
+      "datecreated": 1610589600,
+      "datedue": 1611972000,
+      "time_due": 1200,
+      "location": "Stetson University",
+      "priority": "2"
+    },
+    {
+      "id": 3,
+      "title": "public health assignment",
+      "description": "Cholera outbreak assignment",
+      "datecreated": 1610589600,
+      "datedue": 1611972000,
+      "time_due": 1200,
+      "location": "Stetson University",
+      "priority": "1"
+    },
+    {
+      "id": 4,
+      "title": "fill up gas ",
+      "description": "car almost running out",
+      "datecreated": 1610589600,
+      "datedue": 1617066000,
+      "time_due": 1200,
+      "location": "Deland",
+      "priority": "1"
+    }
+  ]
+}
